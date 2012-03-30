@@ -1,0 +1,5 @@
+C:\Hack\NewcastleLibrary.Data\bin\Debug\NewcastleLibrary.Data.dll
+C:\Hack\NewcastleLibrary.Data\bin\Debug\NewcastleLibrary.Data.pdb
+C:\Hack\NewcastleLibrary.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Hack\NewcastleLibrary.Data\obj\Debug\NewcastleLibrary.Data.dll
+C:\Hack\NewcastleLibrary.Data\obj\Debug\NewcastleLibrary.Data.pdb
