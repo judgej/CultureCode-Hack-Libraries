@@ -11,6 +11,9 @@ in particular:
 
 https://github.com/alistairuk/CultureCode-Data/tree/master/Newcastle%20Libraries
 
+People
+======
+
 Developers, in no particular order:
 
 Name: Jason Judge
@@ -27,3 +30,8 @@ With much help and support from
 
 Jennifer Clark, e-Libraries Officer, City Library, Newcastle
 Twitter: @Dy5topia
+
+Licence
+=======
+
+A version of the GPL or MIT licence. I'll update when we know which one.
